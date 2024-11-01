@@ -6,3 +6,4 @@ gunicorn==19.9.0
 pytz==2019.2
 soupsieve==1.9.3
 whitenoise==6.8.2
+pillow==11.0.0
