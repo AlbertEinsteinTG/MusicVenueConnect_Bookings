@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['1d187c34169b481b8fba91ff35975b70.vfs.cloud9.us-east-1.amazonaws.com', 'musicvenueconnect-booking-app.herokuapp.com' ]
+ALLOWED_HOSTS = ['test-1234gdh-4b30676197e1.herokuapp.com' ]
 
 
 # Application definition
